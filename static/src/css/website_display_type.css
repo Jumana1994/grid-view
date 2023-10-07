@@ -1,0 +1,28 @@
+
+/* CSS for the quantity input field */
+.quantity-input {
+    width: 60px; /* Adjust the width as needed */
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Modify the layout of the attribute-value container to stack the elements vertically */
+.attribute-value {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center horizontally */
+    text-align: center;
+    margin-bottom: 10px; /* Add some space between attribute values */
+}
+.attribute-name-container {
+    text-align: center; /* Center-align the attribute name */
+    margin-top: 10px; /* Adjust the top margin as needed */
+}
+
+/* Optional: To make the attribute value name smaller */
+/* Style the attribute boxes */
+
+
+
